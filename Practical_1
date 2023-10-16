@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Practicals</title>
+</head>
+<body>
+    <hr>
+    <h3>Practical One</h3>
+    <p> <b><u>This is an AI generated words</u></b>
+        Lorem ipsum dolor sit amet, <i>consectetur adipisicing elit</i>. Molestias, expedita. Ipsum aperiam mollitia alias nemo explicabo blanditiis assumenda tenetur eum aspernatur. Sit suscipit minus quisquam aspernatur ipsum aut consequuntur? In.
+        In sit quam beatae sapiente sed veritatis illo voluptates quo laborum reprehenderit, deserunt iure nisi nobis error ea dolores amet ab at non ullam! Animi quia tempora eos voluptates facilis?
+    </p>
+    <p style="background-color: rgb(236, 236, 236);">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quod labore corporis velit reiciendis esse id amet quae optio autem aut vel. Perferendis, fuga maxime numquam eum eaque asperiores incidunt!
+    Dignissimos tempore similique nulla nam fugiat corporis voluptate consectetur dolores nemo nisi cumque iste debitis, magnam velit eligendi commodi voluptates dolorem amet explicabo accusantium quidem inventore, voluptatum voluptatibus! Quas, obcaecati.</p>
+    <br>
+    <h2>Welcome here</h2>
+    <p style="font-family: 'Courier New', Courier, monospace;">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error et tenetur dicta, fugit voluptates incidunt deleniti eos eveniet deserunt vero velit rem cupiditate. Vero architecto voluptatem, sequi ducimus excepturi repellendus.
+    Veniam unde pariatur optio tenetur sed. Esse illo deserunt neque quibusdam vero sit cum, nemo maxime amet nulla facilis! Ab, officia perferendis! Saepe accusamus aliquam assumenda dolor deserunt labore magni.</p>
+    <br>
+    <hr>
+    <h1>for the next page</h1>
+    <a href="./Practical_2.html">For practical_2</a>
+</body>
+</html>
