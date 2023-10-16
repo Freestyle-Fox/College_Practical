@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>Practical_3</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h2>Time table for the 1st Semester </h2>
+    <table class="table">
+        <th>
+            <h2>Deen Dayal Upadhyaya (University of delhi)</h2>
+            <p class="para">Time table for : </p>
+            <p class="para">BSc (Prog.) Physical science with Computer Science-sem I</p>
+            <p class="para">Effective from : 16th August 2023</p>
+        </th>
+        <tbody>
+            <tr>
+                <th>
+                    <p>blank</p>
+                    <p>blank</p>
+                </th>
+                <th>
+                    <p>1</p>
+                    <p>9 am-10 am</p>
+                </th>
+                <th>
+                    <p>2</p>
+                    <p>10 am-11 am</p>
+                </th>
+                <th>
+                    <p>3</p>
+                    <p>11 am-12 am</p>
+                </th>
+                <th>
+                    <p>4</p>
+                    <p>12 pm-01 pm</p>
+                </th>
+                <th>
+                    <p></p>
+                    <p>01:00 pm-01:30 pm</p>
+                </th>
+                <th>
+                    <p>5</p>
+                    <p>01:30 pm-02:30 pm</p>
+                </th>
+                <th>
+                    <p>6</p>
+                    <p>02:30 pm-03:30 pm</p>
+                </th>
+                <th>
+                    <p>7</p>
+                    <p>03:30 pm-04:30 pm</p>
+                </th>
+                <th>
+                    <p>8</p>
+                    <p>04:30 pm-05:30 pm</p>
+                </th>
+                
+            </tr>
+<!-- First Row -->
+            <tr>                        
+                <td>Monday</td>
+                <td>
+
+                </td>
+                <td>
+                    <p>Calculus</p>
+                    <p>SN</p>
+                    <p>401</p>
+                </td>
+                <td>
+                    <p>Calculus-tut</p>
+                    <p>SN</p>
+                    <p>401</p>
+                </td>
+                <td rowspan="4" style="align-items: center;">SEC</td>
+
+            </tr>
+<!--Second Row  -->
+            <tr>
+                <td>
+                    <p>Tuesday</p>
+                </td>
+                <td>
+                    <p>PS-I</p>
+                    <p>C++</p>
+                    <p>404</p>
+                </td>
+                <td>
+                    <p>PS-I</p>
+                    <p>C++</p>
+                    <p>404</p>
+                </td>
+                <td>
+                    <p>Mechanics</p>
+                    <p>NV</p>
+                    <p>404</p>
+                </td>
+                <td>
+                    <p>Calculus</p>
+                    <p>AP</p>
+                    <p>404</p>
+                </td>
+                <td>black</td>
+                <td>
+                    <p>C++</p>
+                    <p>Sk</p>
+                    <p>CS Lab-2(407)</p>
+                </td>
+                <td rowspan="3">
+                    <p>Mechanics</p>
+                    <p>AA</p>
+                    <p>402</p>
+                </td>
+            </tr>
+<!--Third Row -->
+            <tr>
+                <td>Wednesday</td>
+                <td rowspan="3">
+                    <p>PS-I:C++ LAB</p>
+                    <p>Deepak/Sk</p>
+                    <p>CS Lab-2(407)</p>
+                </td>
+                <td>blank</td>
+                <td rowspan="4">
+                    <p>SEC</p>
+                </td>
+            </tr>
+<!-- Fourth Row -->
+            <tr>
+                <td>Thursday</td>
+                <td>GE</td>
+                <td>blank</td>
+                <td>
+                    <p>Calculus</p>
+                    <p>SN</p>
+                    <p>401</p>
+                </td>
+                <td>
+                    <p>Calculus-tut</p>
+                    <p>SN</p>
+                    <p>401</p>
+                </td>
+                <td>
+                    <p>MM</p>
+                    <p>DM</p>
+                    <p>401</p>
+                </td>
+            </tr>
+<!-- Fifth Row -->
+            <tr>
+                <td>Friday</td>
+                <td>
+                    <p>Mechanics-LAB</p>
+                    <p>Sandeep/KVS/PKB</p>
+                    <p>Phy Lab-107</p>
+                </td>
+                <td>blank</td>
+                <td>
+                    <p>AEC</p>
+                    <p>Hindi A/C</p>
+                    <p>401/402</p>
+                </td>
+                <td>
+                    <p>AEC</p>
+                    <p>Hindi A/C</p>
+                    <p>401/402</p>
+                </td>
+                <td>
+                    <p>AEC</p>
+                    <p>Hindi B</p>
+                    <p>401/402</p>
+                </td>
+                <td>
+                    <p>AEC</p>
+                    <p>Hindi B</p>
+                    <p>401/402</p>
+                </td>
+            </tr>
+<!--  -->
+            <tr>
+                <td>Saturday</td>
+                <td></td>
+                <td></td>
+                <td>GE-1</td>
+                <td>GE-1</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
