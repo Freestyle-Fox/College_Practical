@@ -7,19 +7,19 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <h2>Time table for the 1st Semester </h2>
+
     <table class="table">
-        <th>
-            <h2>Deen Dayal Upadhyaya (University of delhi)</h2>
-            <p class="para">Time table for : </p>
-            <p class="para">BSc (Prog.) Physical science with Computer Science-sem I</p>
-            <p class="para">Effective from : 16th August 2023</p>
-        </th>
-        <tbody>
+        <h2 class="title">Deen Dayal Upadhyaya (University of delhi)</h2>
+        <p class="para ; para_1">Time table for : </p>
+        <p class="para ; para_2">BSc (Prog.) Physical science with Computer Science-sem I</p>
+        <p class="para ; para_3">Effective from : 16th August 2023</p>
+        <br>
+        <br>    
+        <tbody class="table_body">
             <tr>
                 <th>
-                    <p>blank</p>
-                    <p>blank</p>
+                    <p></p>
+                    <p></p>
                 </th>
                 <th>
                     <p>1</p>
