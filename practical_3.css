@@ -1,0 +1,16 @@
+*{
+    align-items: center ;
+    justify-content: center ;
+
+}
+.table{
+    align-items: center;
+    border: 2px solid rgb(25, 14, 14);
+}
+tbody{
+    border: 2px solid black;
+    width: auto;
+}
+.para{
+    
+}
