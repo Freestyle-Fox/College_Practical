@@ -1,43 +1,32 @@
 *{
-    align-items: center ;
-    justify-content: center ;
-
+    font-size: 25px;
 }
 .title{
     display: flex;
-}
-.table{
-    display:flex;
     justify-content: center;
 }
-tbody{
+.table{
+    align-content: center;
+    margin: 0 0 0 10px;
     border: 2px solid black;
-    width: auto;
 }
 .para{
     display: inline-block;
-    width: 100%;
 }
 .para_1{
-    display: flex;
     justify-content: flex-start;
+    margin: 0 16rem 0 0;
 }
 .para_2{
-    display: flex;
     justify-content: center;
+    margin: 0 13rem 0 0;
 }
 .para_3{
-    display: flex;
     justify-content: flex-end;
 }
-.table-head{
-    display: flex;
-    display: inline-block;
-    justify-content: center ;
-    width: 100%;
+.data{
+    border: 1px solid black;
 }
-.table-body{
-    border: 2px solid black;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
+td,tr,th{
+    border: 1px solid black
 }
